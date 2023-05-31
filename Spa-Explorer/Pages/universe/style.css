@@ -1,0 +1,25 @@
+body {
+    background: url('/Images/mountains-universe02.png') center no-repeat;
+}
+
+main {
+    margin-left: 10.2rem;
+    margin-top: 6.3rem;
+    width: 64.8rem;
+}
+
+h1 {
+    color: var(--primary-color);
+    font-size: 4.8rem;
+    line-height: 6rem;
+    font-weight: 700;
+
+    margin-bottom: 1.6rem;
+}
+
+p {
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    line-height: 2.88rem;
+    font-weight: 400;
+}
